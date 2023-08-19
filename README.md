@@ -26,9 +26,5 @@ To see my project, please follow these steps:
 **PLEASE VISIT <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>**
 
 ## GitHub and Why I'm Using It 💡 <a name="github-and-why"></a>
-GitHub is a platform that allows me to share my project with you easily. Here's why I chose to use it:
 
-- **Collaboration:** GitHub enables me to work on my project from anywhere and even collaborate with others if needed.
-- **Transparency:** You can see all the changes and progress I've made throughout the project's development.
-- **Version Control:** GitHub tracks changes, so I can always go back to a previous version if necessary.
-- **Showcasing Skills:** Using GitHub helps me develop valuable skills in version control and collaboration, which are relevant in the modern world.
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=pBy1zgt0XPc)
